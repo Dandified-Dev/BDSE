@@ -16,13 +16,13 @@ Replace root with your MySQL username and ... with your MySQL password. Ensure t
 
 First, make sure you have Python installed on your system. Then, follow these steps to create and activate a virtual environment:
 
-# Create a virtual environment
+### Create a virtual environment
 python -m venv venv
 
-# Activate the virtual environment
-# On Windows
+### Activate the virtual environment
+### On Windows
 venv\Scripts\activate
-# On macOS/Linux
+### On macOS/Linux
 source venv/bin/activate
 
 ### 3. Install Required Packages
